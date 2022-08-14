@@ -1,4 +1,3 @@
-import styles from '../styles/Home.module.css'
 import * as THREE from 'three'
 import { useRef,useEffect } from 'react';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
